@@ -1,0 +1,1 @@
+Olá, este é uma projeto que realizei para o Bootcamp da Inter da DIO, que é um clone da página do NETFLIX.
