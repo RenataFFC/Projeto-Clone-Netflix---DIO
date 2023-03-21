@@ -5,7 +5,7 @@
 
 Para isso, utitizei HTML,CSS 
 
-Link:  https://renataffc.github.io/Magnify/
+Link:  https://renataffc.github.io/Projeto-Clone-Netflix---DIO
 
 ## 🚀 Let's code! 🚀
 
